@@ -5,8 +5,7 @@ The focus is on **crypto markets**, with an emphasis on strategies and ideas tha
 
 ### What you’ll find here
 - Exploratory research notebooks  
-- Early-stage quantitative ideas  
-- Notes on crypto derivatives, risk management, and market microstructure  
+- Quantitative ideas on trading strategies 
 - Experiments that may later evolve into more formal papers or strategies  
 
 > ⚡ This is an evolving sandbox — expect drafts, iterations, and plenty of experiments.
